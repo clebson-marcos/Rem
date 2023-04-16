@@ -1,10 +1,8 @@
 import yaml
+import os
+import json
 
-def new_func():
-    data = yaml.safe_load(opem('nlu\\train.yml', 'r', encoding='utf-8').read())
-    return data
-
-data = new_func()
+data = yaml.safe_load(open('nlu\\train.yml').read())
 
 for command in data['commands']:
     print(command)
