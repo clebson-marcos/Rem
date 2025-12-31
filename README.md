@@ -1,13 +1,8 @@
 # Ren
- Ajudante em Python.
+Assistente em Python.
 
  Foco:
-    Fácil de aprender.
-    Rápido e expansível.
+  facilitar a vida do utilizador através da automatização de tarefas, fornecimento de informação rápida e gestão eficiente de atividades diárias
 
 Técnologias:
-    Reconhecimento de voz: (Google para reconhecimento online, Vosk para reconhecimento offline)
-    Síntese de voz: (pyttsx3)
-    Algum tipo de IA: Comandos, NLU
-
- 
+Inteligência Artificial (IA), Processamento de Linguagem Natural (PLN) e Reconhecimento de Voz (Speech-to-Text) para entender comandos, interpretar intenções e gerar respostas, com o Machine Learning (ML) aprimorando continuamente essa capacidade com o tempo, tudo rodando majoritariamente na nuvem para maior poder de processamento, permitindo tarefas como buscas, agendamentos e controle de dispositivos inteligentes   
